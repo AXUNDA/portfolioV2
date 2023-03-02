@@ -5,6 +5,11 @@ import Navbar from './Navbar';
 
 const Section = styled.div`
 height:100vh;
+display: flex;
+scroll-snap-align:center;`
+
+const Container = styled.div`
+height:100vh;
 scroll-snap-align:center;
 
 

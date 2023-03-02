@@ -8,7 +8,7 @@ justify-content:center;
 `
 
 const Container = styled.div`
-width: 1400px;
+width: 1200px;
 display: flex;
 justify-content:space-between;
 align-items:center;
@@ -59,6 +59,13 @@ cursor: pointer;
 
 `
 const Button = styled.button`
+width:100px;
+padding:10px;
+background-color:#da4ea2;
+color:white;
+border:none;
+cursor:pointer;
+border-radius:8px;
 
 
 `
