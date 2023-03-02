@@ -61,8 +61,6 @@ cursor: pointer;
 const Button = styled.button`
 
 
-
-
 `
 const Icon = styled.img`
 width:20px;
