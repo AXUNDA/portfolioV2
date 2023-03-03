@@ -60,8 +60,6 @@ const Hero = () => {
                               <WhatWeDo>
                                     <Line src="./img/line.png" />
                                     <Subtitle>Wat I do</Subtitle>
-
-
                               </WhatWeDo>
                               <Desc>I enjoy creating delightful,human-centered digital experiences</Desc>
                               <button>Learn More</button>
