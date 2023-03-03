@@ -65,7 +65,7 @@ background-color:#da4ea2;
 color:white;
 border:none;
 cursor:pointer;
-border-radius:8px;
+border-radius: 8px 0px 15px 0px;;
 
 
 `
