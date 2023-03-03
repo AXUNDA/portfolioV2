@@ -21,7 +21,6 @@ justify-content: space-between;
 `
 const Left = styled.div`
 
-
 `
 const Right = styled.div`
 
